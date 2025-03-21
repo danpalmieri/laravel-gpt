@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^8.1.0|ˆ8.3",
+        "php": "^8.1.0|^8.3.0",
         "guzzlehttp/guzzle": "^7.5",
         "illuminate/support": "^9.2|^10|^11|^12",
         "laravel/framework": "^9.0|^10|^11|^12",
